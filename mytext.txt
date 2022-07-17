@@ -1,3 +1,5 @@
 Hi this is mani!
 
 Hello there!
+
+Adding new line in rebase branch!
